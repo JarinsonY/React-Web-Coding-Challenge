@@ -10,4 +10,4 @@ export function BikesContextProvider({ children }) {
     </Context.Provider>
 }
 
-export default Context
+export default Context;

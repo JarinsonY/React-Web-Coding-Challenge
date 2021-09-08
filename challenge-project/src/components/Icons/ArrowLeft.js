@@ -19,4 +19,4 @@ const ArrowLeft = (props) => {
     )
 }
 
-export default ArrowLeft
+export default ArrowLeft;

@@ -9,4 +9,4 @@ const getBikes = async ({ page = 1, keyword } = {}) => {
   return data.bikes;
 };
 
-export default getBikes
+export default getBikes;

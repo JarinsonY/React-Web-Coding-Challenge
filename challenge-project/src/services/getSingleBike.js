@@ -8,4 +8,4 @@ const getSingleBike = async ({id}) => {
     return data.bike;
 };
 
-export default getSingleBike
+export default getSingleBike;

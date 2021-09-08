@@ -59,7 +59,7 @@ const ReportDetail = ({ bike }) => {
                     <TextData>{formatDate(bike.date_stolen)}</TextData>
                 </DivData>
                 <DivData>
-                    <TitleData>Date Of The Theft: </TitleData>
+                    <TitleData>Location Of The Theft: </TitleData>
                     <TextData>{bike.stolen_location}</TextData>
                 </DivData>
                 <DivData>

@@ -98,4 +98,4 @@ const Pagination = ({ bikes, page, setPage }) => {
     )
 }
 
-export default Pagination
+export default Pagination;
